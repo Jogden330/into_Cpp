@@ -1,0 +1,10 @@
+﻿Build started 9/25/2013 8:41:57 PM.
+     1>Project "c:\Users\the meat man\documents\visual studio 2012\Projects\jurnal3\jurnal3\jurnal3.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\the meat man\documents\visual studio 2012\Projects\jurnal3\Debug\jurnal3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\the meat man\documents\visual studio 2012\Projects\jurnal3\Debug\jurnal3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\the meat man\documents\visual studio 2012\Projects\jurnal3\Debug\jurnal3.lib" /MACHINE:X86 Debug\random.obj
+         jurnal3.vcxproj -> c:\users\the meat man\documents\visual studio 2012\Projects\jurnal3\Debug\jurnal3.exe
+     1>Done Building Project "c:\Users\the meat man\documents\visual studio 2012\Projects\jurnal3\jurnal3\jurnal3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.52

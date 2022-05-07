@@ -1,0 +1,20 @@
+﻿Build started 2/15/2014 1:22:16 PM.
+     1>Project "C:\Users\The Meat Man\Documents\Visual Studio 2012\Projects\lab 3\lab 3\lab 3.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\ConsoleApplication5\ConsoleApplication5\menu.cpp ..\..\ConsoleApplication5\ConsoleApplication5\Source.cpp ..\..\ConsoleApplication6\ConsoleApplication6\Double.cpp ..\..\ConsoleApplication6\ConsoleApplication6\Integer.cpp main.cpp
+         main.cpp
+     1>c:\users\the meat man\documents\visual studio 2012\projects\lab 3\lab 3\main.cpp(5): fatal error C1083: Cannot open include file: 'menu.h': No such file or directory
+         Integer.cpp
+         Double.cpp
+     1>c:\users\the meat man\documents\visual studio 2012\projects\consoleapplication6\consoleapplication6\double.cpp(27): error C3867: 'Integer::toInt': function call missing argument list; use '&Integer::toInt' to create a pointer to member
+     1>c:\users\the meat man\documents\visual studio 2012\projects\consoleapplication6\consoleapplication6\double.cpp(27): error C2659: '=' : function as left operand
+         Source.cpp
+     1>c:\users\the meat man\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\source.cpp(16): fatal error C1083: Cannot open include file: 'Double.h': No such file or directory
+         menu.cpp
+     1>c:\users\the meat man\documents\visual studio 2012\projects\consoleapplication5\consoleapplication5\menu.cpp(27): error C2228: left of '.decript' must have class/struct/union
+         Generating Code...
+     1>Done Building Project "C:\Users\The Meat Man\Documents\Visual Studio 2012\Projects\lab 3\lab 3\lab 3.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.52

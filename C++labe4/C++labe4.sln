@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++labe4", "C++labe4\C++labe4.vcxproj", "{718D0056-86CF-4A11-9904-E147245AF52D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{718D0056-86CF-4A11-9904-E147245AF52D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{718D0056-86CF-4A11-9904-E147245AF52D}.Debug|Win32.Build.0 = Debug|Win32
+		{718D0056-86CF-4A11-9904-E147245AF52D}.Release|Win32.ActiveCfg = Release|Win32
+		{718D0056-86CF-4A11-9904-E147245AF52D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
